@@ -1,0 +1,13 @@
+name: golge_asistan
+description: Golge AI Music
+version: 1.0.0+1
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  just_audio: ^0.9.35
+  audio_service: ^0.18.12
+  google_fonts: ^6.1.0
+flutter:
+  uses-material-design: true
